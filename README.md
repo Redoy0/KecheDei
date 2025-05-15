@@ -1,6 +1,5 @@
 # 🧺 KecheDei - Online Laundry Service Platform
 
-![KecheDei Banner](/api/placeholder/1200/300)
 
 ## 📑 Overview
 
@@ -33,16 +32,6 @@ KecheDei is a comprehensive online laundry service platform that connects custom
   - Service configuration
   - Analytics and reporting
 
-## 🖼️ Screenshots
-
-### Homepage
-![Homepage](/api/placeholder/800/400)
-
-### User Dashboard
-![User Dashboard](/api/placeholder/800/400)
-
-### Admin Panel
-![Admin Panel](/api/placeholder/800/400)
 
 ## 🛠️ Tech Stack
 
