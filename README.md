@@ -23,7 +23,6 @@ KecheDei is a comprehensive online laundry service platform that connects custom
 
 - 📱 **Order Tracking**
   - Real-time status updates
-  - Notification system
   - Order history with detailed information
 
 - 🛠️ **Admin Dashboard**
